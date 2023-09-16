@@ -3,9 +3,9 @@ cnn-implementation for artificial intelligence
 
 
 <table>
-    <!-- <th>
-    <td colspan="2">Testing Result</td>
-    </th> -->
+    <tr>
+    <th colspan="2">Testing Result</th>
+    </tr>
     <tr>
         <th>Test Implementation Name</th>
         <th>Test Accuracy</th>

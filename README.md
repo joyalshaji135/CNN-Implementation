@@ -6,28 +6,19 @@ cnn-implementation for artificial intelligence
     <!-- <th>
     <td colspan="2">Testing Result</td>
     </th> -->
-    <th>
-        <td>Test Implementation Name</td>
-    </th>
-    <th>
-    <td>Test Accuracy</td>
-    </th>
+    <tr>
+        <th>Test Implementation Name</th>
+        <th>Test Accuracy</th>
+    </tr>
     <tr>
        <td>CNN Implementation - 1</td>
+        <td>0.8780487775802612</td>
     </tr>
-    <tr>
-        0.8780487775802612
-    </tr>
-    <tr>
         <td>CNN Implementation - 2</td>
-    </tr>
-    <tr>
         <td>0.9451219439506531</td>
     </tr>
     <tr>
         <td>Transfer_Learning_Implementation - 3</td>
-     </tr>
-     <tr>
         <td>0.957317054271698</td>
-     </tr>
+    </tr>
 </table>

@@ -21,4 +21,9 @@ cnn-implementation for artificial intelligence
         <td>Transfer_Learning_Implementation - 3</td>
         <td>0.957317054271698</td>
     </tr>
+    <tr>
+    <td colspan="2"><img src="https://static.javatpoint.com/tutorial/artificial-neural-network/images/artificial-neural-network4.png">
+    </td>
+    </tr>
 </table>
+

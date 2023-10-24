@@ -1,6 +1,5 @@
 # CNN-Implementation
-cnn-implementation for artificial intelligence
-
+Automated detection of COVID-19 in real time can greatly help clinicians to handle increasing number of cases for preliminary screening. Deep CNN models trained with sufficiently large datasets may become best candidates to meet the purpose.
 
 <table>
     <tr>

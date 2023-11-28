@@ -26,4 +26,3 @@ A total of 15,153 samples are used in this work. These samples include chest X-r
 </table>
 
 
-
